@@ -3,7 +3,7 @@ This is one of the simplest methods on machine learning, and it is one of the mo
 $$y=\beta_0+\beta_1x_i$$
 The linear regression follows a simple lineal function. With this aim, we can have several of its properties, such as the slop and intercept.
 
-Now, we are agree, that $x_i$, is an element from a big vector denominated as $*X*$, thus, it can be simplified this expression as 
+Now, we are agree, that $x_i$, is an element from a big vector denominated as $X$, thus, it can be simplified this expression as 
 
 $$Y=\beta X$$
 
