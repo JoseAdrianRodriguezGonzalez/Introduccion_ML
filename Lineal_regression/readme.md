@@ -11,4 +11,4 @@ $Y$ is also a vector, and one of the main problems that we can get stuck, how ca
 For taht reason we need to get into optimization, here I can let you a repository to optimizers, and these have a bigger explanation. Although, we need a simple approach.
 
 When you track a line into data, it will be seen that several dots will not fit perfectly into the line, so they will have certain distance. But, as the line is a certain predictor, determined by $\hat{y}$, and the dots are represented as $y$, my main interest is to find out how the line predicts. So it can be defined an expression that measures the distance between the dos and the values.
-$$$Y-\hat{Y}$$$
+$$Y-\hat{Y}$$
